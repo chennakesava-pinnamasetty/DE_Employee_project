@@ -1,0 +1,23 @@
+employee_id,employee_name,department_id,manager_id,salary,hire_date,email,city
+101,Ravi Kumar,1,null,120000.00,2020-01-15,ravi@company.com,Hyderabad
+102,Arun Reddy,1,101,90000.00,2021-03-10,arun@company.com,Hyderabad
+103,Anjali Sharma,1,101,85000.00,2022-06-20,anjali@company.com,Hyderabad
+104,Amit Verma,1,101,85000.00,2023-01-12,amit@company.com,Hyderabad
+105,Priya Singh,2,null,95000.00,2019-05-18,priya@company.com,Bangalore
+106,Pooja Rao,2,105,60000.00,2021-08-15,pooja@company.com,Bangalore
+107,Kiran Kumar,2,105,55000.00,2022-09-10,kiran@company.com,Bangalore
+108,Suresh Babu,3,null,110000.00,2018-02-25,suresh@company.com,Chennai
+109,Divya Patel,3,108,70000.00,2020-07-15,divya@company.com,Chennai
+110,Vijay Rao,3,108,65000.00,2023-04-20,vijay@company.com,Chennai
+111,Rahul Verma,4,null,100000.00,2019-11-10,rahul@company.com,Mumbai
+112,Sneha Reddy,4,111,75000.00,2021-02-12,sneha@company.com,Mumbai
+113,Manoj Kumar,4,111,70000.00,2022-05-20,manoj@company.com,Mumbai
+114,Lakshmi Devi,5,null,90000.00,2020-03-15,lakshmi@company.com,Delhi
+115,Neha Gupta,5,114,65000.00,2022-01-18,neha@company.com,Delhi
+116,Ramesh Kumar,6,null,105000.00,2018-06-10,ramesh@company.com,Pune
+117,Swathi Rao,6,116,68000.00,2021-10-05,swathi@company.com,Pune
+118,Vamsi Krishna,7,null,130000.00,2017-08-20,vamsi@company.com,Hyderabad
+119,Harsha Reddy,7,118,95000.00,2020-12-10,harsha@company.com,Hyderabad
+120,Meena Kumari,7,118,88000.00,2023-02-14,meena@company.com,Hyderabad
+121,Naveen Kumar,null,null,50000.00,2024-01-10,naveen@company.com,Hyderabad
+122,Anil Kumar,8,null,72000.00,2024-02-15,anil@company.com,Chennai

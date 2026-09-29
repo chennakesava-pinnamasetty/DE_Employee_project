@@ -1,0 +1,19 @@
+product_id,product_name,category_id,price,stock
+101,Laptop,1,75000.00,20
+102,Smartphone,1,30000.00,50
+103,Headphones,1,2500.00,100
+104,Keyboard,1,1500.00,80
+105,T-Shirt,2,800.00,150
+106,Jeans,2,2000.00,100
+107,Jacket,2,3500.00,60
+108,Shoes,2,2500.00,90
+109,Mixer Grinder,3,4500.00,40
+110,Cooker,3,2500.00,70
+111,Dining Table,3,15000.00,15
+112,Chair,3,3000.00,50
+113,SQL Book,4,900.00,100
+114,Python Book,4,1200.00,80
+115,Data Engineering Book,4,1800.00,50
+116,Cricket Bat,5,3500.00,40
+117,Football,5,1500.00,80
+118,Tennis Racket,5,4000.00,30
