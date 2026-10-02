@@ -1,6 +1,0 @@
-selected resource name:		API_to_AzureMigration
-selected resource type:		pipeline
-factory name:			bulkbankfactory
-factory location:		eastus
-subscription id:		49e07738-d242-493c-84b2-d668807423e6
-time of download (UTC):		Fri, 02 Oct 2026 19:47:14 GMT
