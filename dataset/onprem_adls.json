@@ -5,12 +5,20 @@
 			"referenceName": "Is_adls",
 			"type": "LinkedServiceReference"
 		},
+		"parameters": {
+			"prem_filename": {
+				"type": "string"
+			}
+		},
 		"annotations": [],
 		"type": "DelimitedText",
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "firstcopy.csv",
+				"fileName": {
+					"value": "@dataset().prem_filename",
+					"type": "Expression"
+				},
 				"folderPath": "onprem",
 				"fileSystem": "bronze"
 			},
