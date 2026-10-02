@@ -39,6 +39,10 @@
 			"type": "string",
 			"defaultValue": "PINNAMSETTY\\chenna"
 		},
+		"HttpServer1_properties_typeProperties_url": {
+			"type": "string",
+			"defaultValue": "https://raw.githubusercontent.com/"
+		},
 		"containerUri": {
 			"type": "string",
 			"metadata": "URI to storage account containing linked ARM templates"
@@ -77,6 +81,9 @@
 					},
 					"Is_adls_properties_typeProperties_url": {
 						"value": "[parameters('Is_adls_properties_typeProperties_url')]"
+					},
+					"HttpServer1_properties_typeProperties_url": {
+						"value": "[parameters('HttpServer1_properties_typeProperties_url')]"
 					},
 					"Onprem_FileServer2_properties_typeProperties_host": {
 						"value": "[parameters('Onprem_FileServer2_properties_typeProperties_host')]"

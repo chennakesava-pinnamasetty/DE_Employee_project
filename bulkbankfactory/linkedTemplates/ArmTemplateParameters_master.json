@@ -29,6 +29,9 @@
 		"onprem_fileServer1_properties_typeProperties_userId": {
 			"value": "PINNAMSETTY\\chenna"
 		},
+		"HttpServer1_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/"
+		},
 		"containerUri": {
 			"value": ""
 		},
