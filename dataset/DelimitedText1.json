@@ -2,7 +2,7 @@
 	"name": "DelimitedText1",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "FileServer1",
+			"referenceName": "onprem_fileServer1",
 			"type": "LinkedServiceReference"
 		},
 		"parameters": {
