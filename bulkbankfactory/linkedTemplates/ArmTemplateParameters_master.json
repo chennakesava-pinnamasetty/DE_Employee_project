@@ -1,0 +1,39 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "bulkbankfactory"
+		},
+		"Is_adls_accountKey": {
+			"value": ""
+		},
+		"Onprem_FileServer2_password": {
+			"value": ""
+		},
+		"onprem_fileServer1_password": {
+			"value": ""
+		},
+		"Is_adls_properties_typeProperties_url": {
+			"value": "https://bulkbankdataupload.dfs.core.windows.net/"
+		},
+		"Onprem_FileServer2_properties_typeProperties_host": {
+			"value": "C:\\company_dataset"
+		},
+		"Onprem_FileServer2_properties_typeProperties_userId": {
+			"value": "PINNAMSETTY\\chenna"
+		},
+		"onprem_fileServer1_properties_typeProperties_host": {
+			"value": "C:\\Employees_data"
+		},
+		"onprem_fileServer1_properties_typeProperties_userId": {
+			"value": "PINNAMSETTY\\chenna"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
